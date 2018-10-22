@@ -1,0 +1,22 @@
+{
+	"creatorId":12345,
+	"creatorFirsName":"משה",
+	"creatorLastName":"כהן",
+	"creationDate":"12/03/2108",
+	"eluyNishmatPerson":"יעקב בן אברהם",
+	"shas":{
+	"masechtot":[
+	{"id":1, "name":"ברכות", 	"sederId":1, "owner":"משה כהן"},
+	{"id":2, "name":"פאה", 	"sederId":1, "owner":"שמואל כהן"},
+	{"id":3, "name":"דמאי", 	"sederId":1, "owner":"null"},
+	{"id":4, "name":"כלאים", 	"sederId":1, "owner":"משה לוי"},
+	{"id":5, "name":"שביעית", "sederId":1, "owner":"מ. כהן"},
+	{"id":6, "name":"תרומות", "sederId":1, "owner":"משה כהן"},
+	{"id":7, "name":"מעשר שני", "sederId":1, "owner":"משה כהן"},
+	{"id":8, "name":"חלה", "sederId":1, "owner":"משה כהן"},
+	{"id":9, "name":"ערלה", "sederId":1, "owner":"משה כהן"},
+	{"id":10, "name":"בכורים", "sederId":1, "owner":"משה כהן"}
+	]
+	}
+	
+}
