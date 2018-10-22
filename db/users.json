@@ -1,0 +1,7 @@
+{ 
+    "_id" : ObjectId("5bcdc790e75730202471e2d3"), 
+    "firstName" : "מנחם", 
+    "lastName" : "כהן", 
+    "email" : "menachem1988@gmail.com", 
+    "password" : "1234"
+}
