@@ -1,22 +1,17 @@
 {
-	"creatorId":12345,
-	"creatorFirsName":"ξωδ",
-	"creatorLastName":"λδο",
+	"userId":12345,
 	"creationDate":"12/03/2108",
-	"eluyNishmatPerson":"ιςχα αο ΰαψδν",
-	"shas":{
+	"description":"asd",
 	"masechtot":[
-	{"id":1, "name":"αψλεϊ", 	"sederId":1, "owner":"ξωδ λδο"},
-	{"id":2, "name":"τΰδ", 	"sederId":1, "owner":"ωξεΰμ λδο"},
-	{"id":3, "name":"γξΰι", 	"sederId":1, "owner":"null"},
-	{"id":4, "name":"λμΰιν", 	"sederId":1, "owner":"ξωδ μει"},
-	{"id":5, "name":"ωαιςιϊ", "sederId":1, "owner":"ξ. λδο"},
-	{"id":6, "name":"ϊψεξεϊ", "sederId":1, "owner":"ξωδ λδο"},
-	{"id":7, "name":"ξςωψ ωπι", "sederId":1, "owner":"ξωδ λδο"},
-	{"id":8, "name":"ημδ", "sederId":1, "owner":"ξωδ λδο"},
-	{"id":9, "name":"ςψμδ", "sederId":1, "owner":"ξωδ λδο"},
-	{"id":10, "name":"αλεψιν", "sederId":1, "owner":"ξωδ λδο"}
+	{"id":1, "name":"Γ‘ΓΈΓ«Γ₯ΓΊ", 	"sederId":1, "owner":"Γ®ΓΉΓ€ Γ«Γ€Γ―"},
+	{"id":2, "name":"Γ΄Γ Γ€", 	"sederId":1, "owner":"ΓΉΓ®Γ₯Γ Γ¬ Γ«Γ€Γ―"},
+	{"id":3, "name":"Γ£Γ®Γ Γ©", 	"sederId":1, "owner":"null"},
+	{"id":4, "name":"Γ«Γ¬Γ Γ©Γ­", 	"sederId":1, "owner":"Γ®ΓΉΓ€ Γ¬Γ₯Γ©"},
+	{"id":5, "name":"ΓΉΓ‘Γ©Γ²Γ©ΓΊ", "sederId":1, "owner":"Γ®. Γ«Γ€Γ―"},
+	{"id":6, "name":"ΓΊΓΈΓ₯Γ®Γ₯ΓΊ", "sederId":1, "owner":"Γ®ΓΉΓ€ Γ«Γ€Γ―"},
+	{"id":7, "name":"Γ®Γ²ΓΉΓΈ ΓΉΓ°Γ©", "sederId":1, "owner":"Γ®ΓΉΓ€ Γ«Γ€Γ―"},
+	{"id":8, "name":"Γ§Γ¬Γ€", "sederId":1, "owner":"Γ®ΓΉΓ€ Γ«Γ€Γ―"},
+	{"id":9, "name":"Γ²ΓΈΓ¬Γ€", "sederId":1, "owner":"Γ®ΓΉΓ€ Γ«Γ€Γ―"},
+	{"id":10, "name":"Γ‘Γ«Γ₯ΓΈΓ©Γ­", "sederId":1, "owner":"Γ®ΓΉΓ€ Γ«Γ€Γ―"}
 	]
-	}
-	
 }
