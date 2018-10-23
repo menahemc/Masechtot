@@ -14,8 +14,8 @@ router.get('/', function (req, res) {
 
   client.connect(url, function (err, client) {
 
-    var db = client.db("MyFirstApp");
-    var collection = db.collection("users");
+    var db = client.db("masechtot");
+    var collection = db.collection("projects");
 
     var query = {};
 
